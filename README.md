@@ -3,7 +3,6 @@
 
 
 ## FORMAÇÃO ACADÊMICA
-* Cursando Técnico em Desenvolvimento de Sistemas pela ETEC
 * Tecnólogo em Análise e Desenvolvimento de Sistemas, ETEP, 2017
 * Técnico em Administração, IFSP, 2017
 * Técnico em Informática para Internet, IFSP, 2016
@@ -15,7 +14,7 @@
 ## INFORMÁTICA
 * Programação (Lógica, C#, Python, Java, PHP, Javascript)
 * Office (Word, Excel, PowerPoint)
-* Front-End (HML5, CSS3, Bootstrap, Jquery)
+* Front-End (HTML5, CSS3, Bootstrap, Jquery)
 * Design (Corel Draw, Photoshop)
 * Versionamento (Git)
 
